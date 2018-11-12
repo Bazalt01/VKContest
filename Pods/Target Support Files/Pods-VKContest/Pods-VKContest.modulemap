@@ -1,0 +1,6 @@
+framework module Pods_VKContest {
+  umbrella header "Pods-VKContest-umbrella.h"
+
+  export *
+  module * { export * }
+}
